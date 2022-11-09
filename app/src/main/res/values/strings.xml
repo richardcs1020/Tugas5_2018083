@@ -1,0 +1,27 @@
+<resources>
+    <string name="Close">Close</string>
+    <string name="Open">Open</string>
+    <string name="app_name">Pertemuan5_2018087</string>
+    <string name="deskription_menu">Televisi adalah sebuah alat penangkap siaran bergambar. Kata televisi berasal dari kata tele dan vision ; yang mempunyai arti jauh (tele) dan tampak (vision). Jadi televisi berarti tampak atau dapat melihat dari jarak jauh</string>
+    <string name="ingredients">Alumunium, Kaca, Kabel</string>
+    <string name="Resep">dirangkai sampai berbentuk televisi</string>
+    <string name="price">Harga :</string>
+    <string name="Harga_Cenil">Rp.2.000.000</string>
+    <string name="navigation_drawer_open" > Open NavigationDrawer </string>
+    <string name="navigation_drawer_close" > Close NavigationDrawer </string>
+    <string-array name="Elektronik">
+        <item>Kulkas</item>
+        <item>Magic Com</item>
+        <item>Mesin Cuci</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.6</item>
+        <item>4.7</item>
+        <item>4.5</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>900.000</item>
+        <item>300.000</item>
+        <item>750.000</item>
+    </string-array>
+</resources>
